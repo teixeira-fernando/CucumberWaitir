@@ -1,2 +1,2 @@
 # CucumberWaitir
-Primeiros passos com Cucumber + Waitir
+Primeiros passos com Cucumber + Waitir. Utilizando IDE RubyMine.
